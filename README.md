@@ -5,3 +5,4 @@
 - Rockets built with variable thrust
 - Hydraulic thrust vectoring
 - Vertical Landing Reusable Rocket
+- Lightweight Carbon Fiber Rocket
