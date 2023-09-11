@@ -1,5 +1,5 @@
 # Making Conventional Rockets with Larger Specific Impulse
-- 1501
+- 15 01 43 06 91 14 11 72 24 36 81
 ## Nozzleless Rockets
 - Nozzles aren't dynamically shaped and is built specifically for the atmosphere it is flying in.
 - Nozzles weigh alot in rockets.
